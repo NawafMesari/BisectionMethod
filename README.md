@@ -1,3 +1,3 @@
 # BisectionMethod
 
-<img src="images/firstScreen.jdep">
+<img src="images/firstScreen.jpg">
